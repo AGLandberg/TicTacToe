@@ -2,7 +2,7 @@
 
 Simple tic tac toe game using React. 
 
-#Required:
+### Required:
 
 1. Recent version of Node.js
 2. npm 
